@@ -16,7 +16,7 @@ namespace SOLID
             }
             Name = name;
             Color = color;
-            Size = Size;
+            Size = size;
         }
 
         public string Name { get; set; }
